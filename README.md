@@ -21,8 +21,8 @@ Para completar este desafío, utilicé HTML y JavaScript sin frameworks. Algunos
 
 Para entregar mi proyecto y obtener una insignia exclusiva para este desafío, seguí los siguientes pasos:
 
-1. Publiqué mi proyecto en GitHub siguiendo los pasos en [Creando un repositorio remoto en GitHub]([[enlace_github_repositorio](](https://dvtecno.github.io/DVTecno.github.io-encriptador/))).
-2. También, activé mi proyecto en GitHub Pages siguiendo los pasos en [Paso a Paso para activar tu proyecto en GitHub Pages]([enlace_github_pages](https://github.com/DVTecno/DVTecno.github.io-encriptador/settings/pages)).
+1. Publiqué mi proyecto en GitHub siguiendo los pasos en [Creando un repositorio remoto en GitHub]([enlace_github_repositorio](https://dvtecno.github.io/DVTecno.github.io-encriptador/)).
+2. También, activé mi proyecto en GitHub Pages siguiendo los pasos en [Paso a Paso para activar tu proyecto en GitHub Pages](enlace_github_pages).
 3. Agregué el hashtag correspondiente al grupo en la sección de "Temas", dentro del engranaje que aparece en "Acerca de" de mi repositorio de GitHub. Utilicé el hashtag "grupo4" para el Grupo 4.
 4. Puedes visualizar mi proyecto y los proyectos
 5. - `enlace_trello`: Enlace al tablero de Trello.
