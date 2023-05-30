@@ -21,7 +21,7 @@ Para completar este desafío, utilicé HTML y JavaScript sin frameworks. Algunos
 
 Para entregar mi proyecto y obtener una insignia exclusiva para este desafío, seguí los siguientes pasos:
 
-1. Publiqué mi proyecto en GitHub siguiendo los pasos en [Creando un repositorio remoto en GitHub]([enlace_github_repositorio](https://dvtecno.github.io/DVTecno.github.io-encriptador/)).
+1. Publiqué mi proyecto en GitHub siguiendo los pasos en [Creando un repositorio remoto en GitHub]([enlace_github_repositorio](https://dvtecno.github.io/DVTecno.github.io-encriptador/).
 2. También, activé mi proyecto en GitHub Pages siguiendo los pasos en [Paso a Paso para activar tu proyecto en GitHub Pages](enlace_github_pages).
 3. Agregué el hashtag correspondiente al grupo en la sección de "Temas", dentro del engranaje que aparece en "Acerca de" de mi repositorio de GitHub. Utilicé el hashtag "grupo4" para el Grupo 4.
 4. Puedes visualizar mi proyecto y los proyectos
@@ -38,5 +38,5 @@ Para entregar mi proyecto y obtener una insignia exclusiva para este desafío, s
 - `enlace_repositorio_base`: [Enlace al repositorio base - Encriptador de texto](https://github.com/DVTecno).
 - `enlace_formulario`: [Enlace al formulario de envío](https://github.com/alura-challenges/challenge-one-encriptador-latam).
 - `enlace_git_github`: [(https://dvtecno.github.io/DVTecno.github.io-encriptador/)](https://www.aluracursos.com/blog/git-y-github-que-son-y-primeros-pasos)
-- `enlace_comenzando_git`: [([enlace_github_pages](https://github.com/DVTecno/DVTecno.github.io-encriptador/settings/pages))](https://www.aluracursos.com/blog/comenzando-con-git).
+- `enlace_comenzando_git`: [enlace_github_pages](https://github.com/DVTecno/DVTecno.github.io-encriptador/settings/pages)
 
