@@ -37,6 +37,5 @@ Para entregar mi proyecto y obtener una insignia exclusiva para este desafío, s
 - `enlace_github_pages`: [Enlace a la guía "Paso a Paso para activar tu proyecto en GitHub Pages](https://www.aluracursos.com/blog/github-pages)".
 - `enlace_repositorio_base`: [Enlace al repositorio base - Encriptador de texto](https://github.com/DVTecno).
 - `enlace_formulario`: [Enlace al formulario de envío](https://github.com/alura-challenges/challenge-one-encriptador-latam).
-- `enlace_git_github`: [(https://dvtecno.github.io/DVTecno.github.io-encriptador/)](https://www.aluracursos.com/blog/git-y-github-que-son-y-primeros-pasos)
-- `enlace_comenzando_git`: [enlace_github_pages](https://github.com/DVTecno/DVTecno.github.io-encriptador/settings/pages)
+
 
